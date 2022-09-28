@@ -1,0 +1,272 @@
+.carousel {
+    align-items: inherit;
+    width: 100%;
+    max-height: max-content;
+   
+   
+  }
+  
+  .carousel-item, .carousel-item.active {
+    align-items:center;
+    
+  }
+  
+  .register{
+    /* background-image:url(https://c.pxhere.com/images/f9/8b/e5c5ab2eba372858336d3f75d8ff-1434233.jpg!d);  */
+    /* background-image:url(https://www.teahub.io/photos/full/28-281777_iphone-blurred-wallpaper-4k.jpg);  */
+    background-image:url(https://www.teahub.io/photos/full/28-281777_iphone-blurred-wallpaper-4k.jpg); 
+    /* background-image:url(https://c4.wallpaperflare.com/wallpaper/336/163/715/honeycombs-abstract-minimalism-simple-background-wallpaper-preview.jpg); */
+    /* background-repeat: no-repeat;  */
+    /* <img
+  
+    src="./images/6.jfif"
+  
+  /> */
+    background-size: cover; 
+    text-align: center;
+    color:rgb(255, 255, 255);
+   
+  }
+  
+  .adminlogin{
+    
+         background-image:url(https://wallpaperaccess.com/full/99840.jpg);
+         background-position:center;
+         padding-left: 10px;
+         background-size: cover;
+         background-color: #17a2b8;
+        /* background-position: center;
+        padding-left: 100px;
+        background-size: cover; */
+      }
+  
+      
+  #h2{
+    /* style= {{color: 'lightcyan', fontStyle:'inherit',fontFamily:'-moz-initial'}} */
+    color:white;
+    font-size: x-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    font-style: inherit;
+  }
+  
+  
+  
+    .customerlogin{
+      /* style={{backgroundImage:'url(https://wallup.net/wp-content/uploads/2015/12/56799-depth_of_field-landscape.jpg)',backgroundRepeat: 'no-repeat , repeat', textAlign:'center', backgroundPosition: '100px 100px' , 
+        /* backgroundPosition:'center',0 paddingLeft:'100px', backgroundSize:'cover'}} */
+        /* background-image:url(https://images.pexels.com/photos/1255062/pexels-photo-1255062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+        /* background-image:url(https://images.pexels.com/photos/7319105/pexels-photo-7319105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);  */
+          /* background-image:url(https://images.pexels.com/photos/7096339/pexels-photo-7096339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+         /* background-image:url(https://images.pexels.com/photos/6936081/pexels-photo-6936081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+     background-image:url(https://wallpaperaccess.com/full/99840.jpg);
+        
+     background-position:center;
+          padding-left: 10px;
+          background-size: cover;
+        }
+  
+    .about{
+      /* background-image:url(https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);  */
+      /* background-image:url(https://images.pexels.com/photos/4050334/pexels-photo-4050334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+     /* height: 750; */
+      /* background-position: center; */
+      /* padding-left: 100px; */
+      /* background-size: cover; */
+      margin:0 ;
+      padding: 0%;
+      font-family: sans-serif;
+      
+  
+    }
+    .aboutus{
+  
+      
+      padding: 0px 100px;
+      /* background: url(https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+      /* background: url(https://thumbs.dreamstime.com/z/papercut-head-green-leaves-flowers-mental-health-emotional-wellness-contented-emotions-self-care-psychology-thinking-185219099.jpg); */
+      background:url(https://cdn.pixabay.com/photo/2021/07/15/20/52/gadgets-6469387__340.jpg);
+     /* background:url(https://images.unsplash.com/photo-1489533119213-66a5cd877091?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=751&q=80); */
+      height: 100vh;
+      width: 100%;
+      
+      display: flex;
+      justify-content:center;
+      background-size: cover;
+      padding-left: 550px;
+      padding-top: 100px;
+  
+    }
+  
+    
+  
+    .box{
+     
+      
+      position: relative;
+      max-width: 2000px;
+      max-height:230px;
+      padding: 30px;
+    
+     background: rgba(17, 17, 17, 0.2);
+     box-shadow: 0 5px 15px rgba(0,0,0,.5);
+     box-sizing:content-box;
+     
+     
+    
+  
+    }
+
+
+
+    
+
+
+
+
+
+
+    .div2{
+      /* style={{textAlign: 'center',marginLeft: 440, padding: 125,}} */
+      text-align: center;
+      margin-left: 440;
+      padding: 125;
+  
+    }
+  
+    .adminpage{
+      background-image:url(https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+      height: 90vh;
+      /* display: flex; */
+      /* justify-content:center; */
+      background-size: cover;
+      /* padding-left: 200px; */
+      padding-top: 10px;
+    }
+    
+    #label{
+      color:rgb(27, 26, 26);
+      font-size: larger;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-weight: 400;
+      font-style: inherit;
+    }
+  
+    #labels{
+      color:rgb(23, 24, 23);
+      font-size: larger;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-weight: 400;
+      font-style: inherit;
+    }
+    
+    
+  #h2s{
+    /* style= {{color: 'lightcyan', fontStyle:'inherit',fontFamily:'-moz-initial'}} */
+    padding: 40px 100px;
+    color:rgb(27, 25, 25);
+    font-size: xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 1000;
+  
+  }
+  
+    .profile {
+      background-image:url(https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+      background-position: center;
+      padding-left: 100px;
+      background-size: cover;
+      padding-bottom: 400px;
+     
+      /* background-image:url(https://images.pexels.com/photos/4050334/pexels-photo-4050334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+      /* background-position: center;
+      padding-left: 100px;
+      background-size: cover;
+      position: relative; */
+  
+    }
+    .newp{
+      /* style={{textAlign: 'center', marginLeft: 330, padding:125 ,
+        paddingBottom:130 , background:'rgba(255,255,255,.0)' , }} */
+  
+        text-align: center;
+        margin-left:330 ;
+        padding:125 ;
+        padding-bottom: 130;
+        background: rgba(240, 235, 235, 0);
+    }
+  
+    .history {
+      background-image:url(https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+      /* background-image:url(https://images.pexels.com/photos/4050334/pexels-photo-4050334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+      background-position: center;
+      padding-left: 100px;
+      background-size: cover;
+     padding-bottom: 400px;
+  
+     /* style={{ paddingTop:10, fontFamily: '-moz-initial' }} */
+     
+    }
+  
+    .customerlist{
+      background-image:url(https://images.pexels.com/photos/316466/pexels-photo-316466.jpeg?cs=srgb&dl=pexels-lumn-316466.jpg&fm=jpg); 
+      /* background-image:url(https://images.pexels.com/photos/4050334/pexels-photo-4050334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+      background-position: center;
+      padding-left: 100px;
+      background-size: cover;
+      padding-bottom: 400px;
+    }
+  
+    #labelvendor{
+      color:white;
+      font-size: large;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-weight: 400;
+      font-style: inherit;
+    }
+    .videoWrapper {
+      position: relative;
+      
+      padding-bottom: 56.25%; /* 16:9 */
+      height: 0;
+    }
+    .videoWrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      margin-top: 100px;
+      margin-left: 30vh;
+      width: 70%;
+      height: 70%;
+    }
+    /* .cardcss{
+      /* style={{
+        width: '24rem',
+        marginLeft: 50,
+        marginRight: 900,
+        marginBottom: 45,
+        marginTop: 50,
+      }} */
+  
+     
+    /* } */
+    
+  /* .input{
+   width: 300;
+   margin-left: 90;
+  } */
+  /* .card {
+    /* Add shadows to create the "card" effect */
+    /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
+    /* transition: 0.3s; */
+  /* } */
+  
+  /* On mouse-over, add a deeper shadow */
+  /* .card:hover { */
+    /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); */
+  /* } */
+  
+  /* Add some padding inside the card container */
+  /* .container { */
+    /* padding: 2px 16px; */
+  /* } */ 

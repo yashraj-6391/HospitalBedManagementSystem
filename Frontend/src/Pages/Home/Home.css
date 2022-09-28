@@ -1,0 +1,35 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+.heading{
+
+  color:Navy;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  text-shadow: 0px 2px 4px #ffc9e5 ;
+  margin:50px 50px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.cards{
+    display: flex;
+    margin-top:0px;
+    background-color: bisque;
+    font-family: 'Josefin Sans', sans-serif;
+    height: 200px;
+    text-align: center;
+  }
+
+  .text{
+      margin-top: 30px;
+      margin-left: 15px;
+      margin-right: 15px;
+
+  }
+
+  .image{
+      margin-top: 25px;
+      margin-bottom: 0px;
+     }
+  
